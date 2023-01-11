@@ -1,3 +1,8 @@
+---
+layout: page
+title: Day 5
+---
+
 ## Friday 27-01-2023
 
 ## Program

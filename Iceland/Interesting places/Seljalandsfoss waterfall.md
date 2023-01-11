@@ -1,3 +1,8 @@
+---
+layout: page
+title: Seljalandsfoss waterfall
+---
+
 # Seljalandsfoss waterfall
 
 https://guidetoiceland.is/travel-iceland/drive/seljalandsfoss

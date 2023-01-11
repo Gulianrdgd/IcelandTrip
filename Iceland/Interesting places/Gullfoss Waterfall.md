@@ -1,3 +1,8 @@
+---
+layout: page
+title: Gullfoss Waterfall
+---
+
 # Gullfoss Waterfall
 
 ![Tour|300](https://guidetoiceland.imgix.net/331988/x/0/gullfoss?auto=format%2Ccompress&crop=faces%2Cedges%2Ccenter&bg=%23fff&fit=crop&q=35&h=926&dpr=1)

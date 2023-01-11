@@ -1,3 +1,8 @@
+---
+layout: page
+title: Blue lagoon
+---
+
 # Blue lagoon
 
 https://www.bluelagoon.com/

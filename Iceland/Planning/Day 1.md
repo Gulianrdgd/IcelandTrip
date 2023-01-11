@@ -1,3 +1,8 @@
+---
+layout: page
+title: Day 1
+---
+
 ## Monday 23-01-2023
 
 ## Program

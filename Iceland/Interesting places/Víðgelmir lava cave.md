@@ -1,4 +1,10 @@
-Víðgelmir lava cave
+---
+layout: page
+title: Víðgelmir lava cave
+---
+
+# Víðgelmir lava cave
+
 https://thecave.is/
 
 ![Tour|300](https://thecave.is/wp-content/uploads/2021/03/DSC8542-1.jpg)

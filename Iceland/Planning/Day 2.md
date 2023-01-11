@@ -1,3 +1,8 @@
+---
+layout: page
+title: Day 2
+---
+
 ## Tuesday 24-01-2023
 
 ## Program

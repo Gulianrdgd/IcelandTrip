@@ -1,3 +1,8 @@
+---
+layout: page
+title: Perlan museum
+---
+
 # Perlan museum
 
 https://www.tripadvisor.com/Attraction_Review-g189970-d246003-Reviews-Perlan-Reykjavik_Capital_Region.html

@@ -10,10 +10,14 @@ categories: [Planning]
 - 15:30 Sunset
 
 ## Things to do
-[Geysir]( Geysir.md )
-[Gullfoss Waterfall]( Gullfoss Waterfall.md )
-[Thingvellir National Park Öxarárfoss Waterfall]( Thingvellir National Park Öxarárfoss Waterfall.md )
-[Víðgelmir lava cave]( Víðgelmir lava cave.md )
+- [Geysir]( Interesting places/Geysir.md ) 
+
+- [Gullfoss Waterfall]( Interesting places/Gullfoss Waterfall.md ) 
+
+- [Thingvellir National Park Öxarárfoss Waterfall]( Interesting places/Thingvellir National Park Öxarárfoss Waterfall.md ) 
+
+- [Víðgelmir lava cave]( Interesting places/Víðgelmir lava cave.md ) 
+
 
 ## Sleeping location 
 Bright & cosy cottage by a lake.

@@ -1,12 +1,8 @@
---- 
-layout: page
-title: Perlan museum 
----
 # Perlan museum
 
-[https://www.tripadvisor.com/Attraction_Review-g189970-d246003-Reviews-Perlan-Reykjavik_Capital_Region.html](https://www.tripadvisor.com/Attraction_Review-g189970-d246003-Reviews-Perlan-Reykjavik_Capital_Region.html)
+https://www.tripadvisor.com/Attraction_Review-g189970-d246003-Reviews-Perlan-Reykjavik_Capital_Region.html
 
-![300](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/40/6b/79/perlan-wonders-of-iceland.jpg?w=1200&h=-1&s=1)
+![Tour|300](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/40/6b/79/perlan-wonders-of-iceland.jpg?w=1200&h=-1&s=1)
 
 ## Description
 
@@ -21,4 +17,3 @@ Perlan is a Nature Exploratorium and one of #Reykjavik’s main landmarks. You c
 25 Euro p.p.
 
 Totaal: 100 Euro
-Euro

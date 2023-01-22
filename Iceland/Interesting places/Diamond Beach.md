@@ -1,12 +1,8 @@
---- 
-layout: page
-title: Diamond Beach 
----
 # Diamond Beach
 
-[https://guidetoiceland.is/travel-iceland/drive/diamond-beach](https://guidetoiceland.is/travel-iceland/drive/diamond-beach)
+https://guidetoiceland.is/travel-iceland/drive/diamond-beach
 
-![300](https://images.ctfassets.net/a68ipajj4t9l/41J1AhuGNho8usq97lhyI8/08d37b69ff9cfe27171c3918bfc642a4/diamond_beach5.jpg)
+![Tour|300](https://images.ctfassets.net/a68ipajj4t9l/41J1AhuGNho8usq97lhyI8/08d37b69ff9cfe27171c3918bfc642a4/diamond_beach5.jpg)
 
 ## Description
 
@@ -19,9 +15,8 @@ At the Diamond Beach, the icebergs which fill the Jökulsárlón glacier lagoon 
 ## Location
 
 781, Iceland
-[https://goo.gl/maps/sGKUTd13oMZqXVaAA](https://goo.gl/maps/sGKUTd13oMZqXVaAA)
+https://goo.gl/maps/sGKUTd13oMZqXVaAA
 
 ## Price
 
-Free
 Free

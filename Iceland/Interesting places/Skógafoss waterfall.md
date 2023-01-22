@@ -1,12 +1,8 @@
---- 
-layout: page
-title: Skógafoss waterfall 
----
 # Skógafoss waterfall
 
-[https://guidetoiceland.is/connect-with-locals/regina/the-beautiful-skogafoss-waterfall-and-the-legend-of-the-treasure-chest](https://guidetoiceland.is/connect-with-locals/regina/the-beautiful-skogafoss-waterfall-and-the-legend-of-the-treasure-chest)
+https://guidetoiceland.is/connect-with-locals/regina/the-beautiful-skogafoss-waterfall-and-the-legend-of-the-treasure-chest
 
-[![300](https://guidetoiceland.imgix.net/389003/x/0/the-spectacular-skogafoss-waterfall-in-south-iceland-and-the-legend-of-the-treasure-chest-1?ixlib=php-3.3.0&w=883)](![300](https://guidetoiceland.imgix.net/389003/x/0/the-spectacular-skogafoss-waterfall-in-south-iceland-and-the-legend-of-the-treasure-chest-1?ixlib=php-3.3.0&w=883))
+![Tour|300](https://guidetoiceland.imgix.net/389003/x/0/the-spectacular-skogafoss-waterfall-in-south-iceland-and-the-legend-of-the-treasure-chest-1?ixlib=php-3.3.0&w=883)
 
 ## Description
 
@@ -17,9 +13,8 @@ If the sun conditions are favorable - one can see a vivid rainbow in front of th
 ## Location
 
 \#Skógarfoss
-[https://goo.gl/maps/teaYb1igorak7ZVx9](https://goo.gl/maps/teaYb1igorak7ZVx9)
+https://goo.gl/maps/teaYb1igorak7ZVx9
 
 ## Price
 
-Free
 Free

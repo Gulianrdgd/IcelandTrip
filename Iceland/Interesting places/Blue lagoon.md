@@ -1,12 +1,8 @@
---- 
-layout: page
-title: Blue lagoon 
----
 # Blue lagoon
 
-[https://www.bluelagoon.com/](https://www.bluelagoon.com/)
+https://www.bluelagoon.com/
 
-![300](https://guidetoiceland.imgix.net/740636/x/0/bluel.jpg?auto=format%2Ccompress&crop=faces%2Cedges%2Ccenter&bg=%23fff&fit=crop&q=35&h=776&dpr=1)
+![Tour|300](https://guidetoiceland.imgix.net/740636/x/0/bluel.jpg?auto=format%2Ccompress&crop=faces%2Cedges%2Ccenter&bg=%23fff&fit=crop&q=35&h=776&dpr=1)
 
 ## Description
 
@@ -23,4 +19,3 @@ Norðurljósavegur 9 #Grindavík
 60,40 Euro p.p
 
 Total: 241,60 Euro
-Euro

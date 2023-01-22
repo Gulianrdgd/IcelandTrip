@@ -1,10 +1,6 @@
---- 
-layout: page
-title: Gullfoss Waterfall 
----
 # Gullfoss Waterfall
 
-[![300](https://guidetoiceland.imgix.net/331988/x/0/gullfoss?auto=format%2Ccompress&crop=faces%2Cedges%2Ccenter&bg=%23fff&fit=crop&q=35&h=926&dpr=1)](![300](https://guidetoiceland.imgix.net/331988/x/0/gullfoss?auto=format%2Ccompress&crop=faces%2Cedges%2Ccenter&bg=%23fff&fit=crop&q=35&h=926&dpr=1))
+![Tour|300](https://guidetoiceland.imgix.net/331988/x/0/gullfoss?auto=format%2Ccompress&crop=faces%2Cedges%2Ccenter&bg=%23fff&fit=crop&q=35&h=926&dpr=1)
 
 ## Description
 
@@ -24,9 +20,8 @@ As mentioned, #Gullfoss makes up a part of the highly popular Golden Circle sigh
 
 \#Gullfoss nature reserve
 
-[https://goo.gl/maps/Ym5ZXjEiMJFsq7zz6](https://goo.gl/maps/Ym5ZXjEiMJFsq7zz6)
+https://goo.gl/maps/Ym5ZXjEiMJFsq7zz6
 
 ## Price
 
-Free
 Free

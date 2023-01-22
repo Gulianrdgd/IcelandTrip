@@ -12,9 +12,12 @@ categories: [Planning]
 - 15:30 Sunset
 
 ## Things to do
-[Black sand beach vik]( Black sand beach vik.md )
-[Diamond Beach]( Diamond Beach.md )
-[Jökulsárlón Glacier Lagoon]( Jökulsárlón Glacier Lagoon.md )
+- [Black sand beach vik]( Interesting places/Black sand beach vik.md ) 
+
+- [Diamond Beach]( Interesting places/Diamond Beach.md ) 
+
+- [Jökulsárlón Glacier Lagoon]( Interesting places/Jökulsárlón Glacier Lagoon.md ) 
+
 
 
 ## Sleeping location 

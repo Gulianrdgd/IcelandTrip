@@ -12,8 +12,10 @@ categories: [Planning]
 - 21:00 Latest check in
 
 ## Things to do
-[Diamond Beach]( Diamond Beach.md )
-[Jökulsárlón Glacier Lagoon]( Jökulsárlón Glacier Lagoon.md )
+- [Diamond Beach]( Interesting places/Diamond Beach.md ) 
+
+- [Jökulsárlón Glacier Lagoon]( Interesting places/Jökulsárlón Glacier Lagoon.md ) 
+
 
 ## Sleeping location 
 Guesthouse Dyngja

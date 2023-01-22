@@ -1,8 +1,3 @@
----
-layout: page
-title: Fagradalsfjall volcano
----
-
 # Fagradalsfjall volcano
 
 https://www.visiticeland.com/article/hiking-to-the-volcano

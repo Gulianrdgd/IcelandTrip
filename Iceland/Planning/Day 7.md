@@ -1,8 +1,3 @@
----
-layout: page
-title: Day 7
----
-
 ## Sunday 28-01-2023
 
 ## Program

@@ -1,8 +1,3 @@
----
-layout: page
-title: Reykjadalur Steam Valley
----
-
 # Reykjadalur Steam Valley
 
 https://www.funiceland.is/nature/natural-pools/reykjadalur/

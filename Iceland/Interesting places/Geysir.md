@@ -1,8 +1,3 @@
----
-layout: page
-title: Geysir
----
-
 # Geysir
 
 ![Tour|300](https://guidetoiceland.imgix.net/392642/x/0/geysir-is-a-dormant-hot-spring-in-the-geothermal-area-haukadalur-valley-found-in-south-iceland?auto=format%2Ccompress&crop=faces%2Cedges%2Ccenter&bg=%23fff&fit=crop&q=35&h=926&dpr=1)

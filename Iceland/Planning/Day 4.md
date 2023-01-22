@@ -1,8 +1,3 @@
----
-layout: page
-title: Day 4
----
-
 ## Thursday 26-01-2023
 
 ## Program

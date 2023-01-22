@@ -1,8 +1,3 @@
----
-layout: page
-title: Skógafoss waterfall
----
-
 # Skógafoss waterfall
 
 https://guidetoiceland.is/connect-with-locals/regina/the-beautiful-skogafoss-waterfall-and-the-legend-of-the-treasure-chest

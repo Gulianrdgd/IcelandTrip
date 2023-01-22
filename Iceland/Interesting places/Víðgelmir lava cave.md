@@ -1,8 +1,3 @@
----
-layout: page
-title: Víðgelmir lava cave
----
-
 # Víðgelmir lava cave
 
 https://thecave.is/

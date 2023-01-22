@@ -1,8 +1,3 @@
----
-layout: page
-title: Day 3
----
-
 ## Wednesday 25-01-2023
 
 ## Program

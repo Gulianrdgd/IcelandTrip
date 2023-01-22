@@ -1,8 +1,3 @@
----
-layout: page
-title: Jökulsárlón Glacier Lagoon
----
-
 # Jökulsárlón Glacier Lagoon
 
 https://guidetoiceland.is/travel-iceland/drive/jokulsarlon

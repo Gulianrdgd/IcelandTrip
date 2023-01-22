@@ -1,8 +1,3 @@
----
-layout: page
-title: Day 6
----
-
 ## Saturday 28-01-2023
 
 ## Program

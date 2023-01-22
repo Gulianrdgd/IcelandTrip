@@ -1,8 +1,3 @@
----
-layout: page
-title: Diamond Beach
----
-
 # Diamond Beach
 
 https://guidetoiceland.is/travel-iceland/drive/diamond-beach

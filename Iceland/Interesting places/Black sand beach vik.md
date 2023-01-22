@@ -1,8 +1,3 @@
----
-layout: page
-title: Black sand beach vik
----
-
 # Black sand beach vik
 
 https://www.tripadvisor.com/Attraction_Review-g189970-d246003-Reviews-Perlan-Reykjavik_Capital_Region.html

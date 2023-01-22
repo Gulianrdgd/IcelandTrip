@@ -12,11 +12,11 @@ categories: [Planning]
 - 15:30 Sunset
 
 ## Things to do
-- [Diamond Beach]( Interesting places/Diamond Beach.md ) 
+- [Diamond Beach]( ../Interesting places/Diamond Beach ) 
 
-- [Jökulsárlón Glacier Lagoon]( Interesting places/Jökulsárlón Glacier Lagoon.md ) 
+- [Jökulsárlón Glacier Lagoon]( ../Interesting places/Jökulsárlón Glacier Lagoon ) 
 
-- [Fagradalsfjall volcano]( Interesting places/Fagradalsfjall volcano.md ) 
+- [Fagradalsfjall volcano]( ../Interesting places/Fagradalsfjall volcano ) 
 
 
 ## Sleeping location 

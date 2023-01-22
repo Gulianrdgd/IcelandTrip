@@ -12,9 +12,9 @@ categories: [Planning]
 - 21:00 Latest check in
 
 ## Things to do
-- [Diamond Beach]( Interesting places/Diamond Beach.md ) 
+- [Diamond Beach]( ../Interesting places/Diamond Beach ) 
 
-- [Jökulsárlón Glacier Lagoon]( Interesting places/Jökulsárlón Glacier Lagoon.md ) 
+- [Jökulsárlón Glacier Lagoon]( ../Interesting places/Jökulsárlón Glacier Lagoon ) 
 
 
 ## Sleeping location 

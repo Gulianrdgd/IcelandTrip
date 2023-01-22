@@ -12,13 +12,13 @@ categories: [Planning]
 - 16:00 Check in
 
 ## Things to do
-- [Reykjadalur Steam Valley]( Interesting places/Reykjadalur Steam Valley.md ) 
+- [Reykjadalur Steam Valley]( ../Interesting places/Reykjadalur Steam Valley ) 
 
-- [Seljalandsfoss waterfall]( Interesting places/Seljalandsfoss waterfall.md ) 
+- [Seljalandsfoss waterfall]( ../Interesting places/Seljalandsfoss waterfall ) 
 
-- [Skógafoss waterfall]( Interesting places/Skógafoss waterfall.md ) 
+- [Skógafoss waterfall]( ../Interesting places/Skógafoss waterfall ) 
 
-- [Fagradalsfjall volcano]( Interesting places/Fagradalsfjall volcano.md ) 
+- [Fagradalsfjall volcano]( ../Interesting places/Fagradalsfjall volcano ) 
 
 
 ## Sleeping location 

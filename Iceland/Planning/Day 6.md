@@ -12,9 +12,9 @@ categories: [Planning]
 - 15:30 Sunset
 
 ## Things to do
-[Diamond Beach]({% link Interesting places/Diamond Beach.md %})
-[Jökulsárlón Glacier Lagoon]({% link Interesting places/Jökulsárlón Glacier Lagoon.md %})
-[Fagradalsfjall volcano]({% link Interesting places/Fagradalsfjall volcano.md %})
+[Diamond Beach]( Diamond Beach.md )
+[Jökulsárlón Glacier Lagoon]( Jökulsárlón Glacier Lagoon.md )
+[Fagradalsfjall volcano]( Fagradalsfjall volcano.md )
 
 ## Sleeping location 
 Snowfarm Cottage 3

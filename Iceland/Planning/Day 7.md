@@ -14,8 +14,8 @@ categories: [Planning]
 - 00:05 Landing 🇳‍🇱
 
 ## Things to do
-[Perlan museum]({% link Interesting places/Perlan museum.md %})
-[Blue lagoon]({% link Interesting places/Blue lagoon.md %})
+[Perlan museum]( Perlan museum.md )
+[Blue lagoon]( Blue lagoon.md )
 
 ## Sleeping location 
 Norðurey Hotel City Garden

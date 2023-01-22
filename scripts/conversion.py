@@ -30,7 +30,7 @@ def convert_files(root, file):
                 end = line.find("]]")
                 if start != -1 and end != -1:
                     link = line[start + 2:end]
-                    content = content.replace(line, "- [" + link + "]( ../Interesting places/" + link + ".md ) \n")
+                    content = content.replace(line, "- [" + link + "]( ../Interesting places/" + link + " ) \n")
         f.seek(0, 0)
 
         # Append header

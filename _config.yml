@@ -27,7 +27,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Gulianrdgd
 
 # Build settings
-theme: Hyde
+theme: minima
+
+category-list: [Planning, Interesting places]
+
 plugins:
   - jekyll-feed
   - jekyll-relative-links
@@ -35,6 +38,7 @@ plugins:
 relative_links:
   enabled:     true
   collections: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,0 +1,16 @@
+<header>
+    <div class="site-header" style="display: flex; flex-direction: column; justify-content: center; align-self: center; background: #3f3f3f; padding: 2rem 0 3rem 0">
+        <h1 class="site-title" style="justify-content: center; align-self: center; color: white">
+            <a style="color: inherit;" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+        </h1>
+        <div style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
+            {% for page in site.pages %}
+            {% for pc in page.categories %}
+            {% if pc == "Planning" %}
+                <a style="color: white;" href="{{ page.url | relative_url }}">{{ page.title }}</a>
+            {% endif %}
+            {% endfor %}
+            {% endfor %}
+        </div>
+    </div>
+</header>

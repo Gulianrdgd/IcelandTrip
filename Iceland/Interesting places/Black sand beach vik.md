@@ -1,6 +1,7 @@
 --- 
 layout: page
 title: Black sand beach vik 
+categories: [Interesting places] 
 ---
 # Black sand beach vik
 [https://www.tripadvisor.com/Attraction_Review-g189970-d246003-Reviews-Perlan-Reykjavik_Capital_Region.html](https://www.tripadvisor.com/Attraction_Review-g189970-d246003-Reviews-Perlan-Reykjavik_Capital_Region.html)
@@ -14,5 +15,4 @@ This is an amazing and spectacular beach. The cliffs and sea caves with their va
 #Vik
 
 ## Price
-Free
 Free

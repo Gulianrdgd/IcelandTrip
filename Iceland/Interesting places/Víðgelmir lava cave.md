@@ -1,6 +1,7 @@
 --- 
 layout: page
 title: Víðgelmir lava cave 
+categories: [Interesting places] 
 ---
 # Víðgelmir lava cave
 [https://thecave.is/](https://thecave.is/)
@@ -18,4 +19,4 @@ Fljótstunga 320 #Reykholt
 ## Price
 53,25 Euro p.p
 
-Total: 213 Euro Euro
+Total: 213 Euro

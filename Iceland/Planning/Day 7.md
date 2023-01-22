@@ -1,6 +1,7 @@
 --- 
 layout: page
 title: Day 7 
+categories: [Planning] 
 ---
 ## Sunday 28-01-2023
 
@@ -13,8 +14,8 @@ title: Day 7
 - 00:05 Landing 🇳‍🇱
 
 ## Things to do
- - [[Perlan museum]]
- - [[Blue lagoon]]
+[Perlan museum]({% link Interesting places/Perlan museum.md %})
+[Blue lagoon]({% link Interesting places/Blue lagoon.md %})
 
 ## Sleeping location 
 Norðurey Hotel City Garden

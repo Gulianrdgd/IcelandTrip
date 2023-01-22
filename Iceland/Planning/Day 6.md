@@ -1,6 +1,7 @@
 --- 
 layout: page
 title: Day 6 
+categories: [Planning] 
 ---
 ## Saturday 28-01-2023
 
@@ -11,9 +12,9 @@ title: Day 6
 - 15:30 Sunset
 
 ## Things to do
- - [[Diamond Beach]]
- - [[Jökulsárlón Glacier Lagoon]]
- - [[Fagradalsfjall volcano]]
+[Diamond Beach]({% link Interesting places/Diamond Beach.md %})
+[Jökulsárlón Glacier Lagoon]({% link Interesting places/Jökulsárlón Glacier Lagoon.md %})
+[Fagradalsfjall volcano]({% link Interesting places/Fagradalsfjall volcano.md %})
 
 ## Sleeping location 
 Snowfarm Cottage 3

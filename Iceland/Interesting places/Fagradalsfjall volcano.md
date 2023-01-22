@@ -1,6 +1,7 @@
 --- 
 layout: page
 title: Fagradalsfjall volcano 
+categories: [Interesting places] 
 ---
 # Fagradalsfjall volcano
 [https://www.visiticeland.com/article/hiking-to-the-volcano](https://www.visiticeland.com/article/hiking-to-the-volcano)
@@ -19,4 +20,4 @@ may be closed due to hazardous conditions!
 #Grindavik 
 [https://goo.gl/maps/NjCuiSxAqX899EoWA](https://goo.gl/maps/NjCuiSxAqX899EoWA)
 
-## PricePrice
+## Price

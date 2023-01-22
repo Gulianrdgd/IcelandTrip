@@ -1,6 +1,7 @@
 --- 
 layout: page
 title: Day 4 
+categories: [Planning] 
 ---
 ## Thursday 26-01-2023
 
@@ -11,9 +12,9 @@ title: Day 4
 - 15:30 Sunset
 
 ## Things to do
- - [[Black sand beach vik]]
- - [[Diamond Beach]]
- - [[Jökulsárlón Glacier Lagoon]]
+[Black sand beach vik]({% link Interesting places/Black sand beach vik.md %})
+[Diamond Beach]({% link Interesting places/Diamond Beach.md %})
+[Jökulsárlón Glacier Lagoon]({% link Interesting places/Jökulsárlón Glacier Lagoon.md %})
 
 
 ## Sleeping location 

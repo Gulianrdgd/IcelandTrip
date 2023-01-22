@@ -1,6 +1,7 @@
 --- 
 layout: page
 title: Day 0 
+categories: [Planning] 
 ---
 ## preperations
 

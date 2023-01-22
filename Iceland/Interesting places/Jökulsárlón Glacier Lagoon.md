@@ -1,6 +1,7 @@
 --- 
 layout: page
 title: Jökulsárlón Glacier Lagoon 
+categories: [Interesting places] 
 ---
 # Jökulsárlón Glacier Lagoon
 [https://guidetoiceland.is/travel-iceland/drive/jokulsarlon](https://guidetoiceland.is/travel-iceland/drive/jokulsarlon)
@@ -17,5 +18,4 @@ As a glacier lagoon, #Jökulsárlón is a lake that is filled with meltwater fro
 [https://goo.gl/maps/QkduXsQsR9Su9vp99](https://goo.gl/maps/QkduXsQsR9Su9vp99)
 
 ## Price
-Free
 Free

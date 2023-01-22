@@ -1,6 +1,7 @@
 --- 
 layout: page
 title: Skógafoss waterfall 
+categories: [Interesting places] 
 ---
 # Skógafoss waterfall
 [https://guidetoiceland.is/connect-with-locals/regina/the-beautiful-skogafoss-waterfall-and-the-legend-of-the-treasure-chest](https://guidetoiceland.is/connect-with-locals/regina/the-beautiful-skogafoss-waterfall-and-the-legend-of-the-treasure-chest)
@@ -17,5 +18,4 @@ If the sun conditions are favorable - one can see a vivid rainbow in front of th
 [https://goo.gl/maps/teaYb1igorak7ZVx9](https://goo.gl/maps/teaYb1igorak7ZVx9)
 
 ## Price
-Free
 Free

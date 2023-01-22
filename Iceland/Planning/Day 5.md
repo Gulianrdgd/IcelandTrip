@@ -1,6 +1,7 @@
 --- 
 layout: page
 title: Day 5 
+categories: [Planning] 
 ---
 ## Friday 27-01-2023
 
@@ -11,8 +12,8 @@ title: Day 5
 - 21:00 Latest check in
 
 ## Things to do
- - [[Diamond Beach]]
- - [[Jökulsárlón Glacier Lagoon]]
+[Diamond Beach]({% link Interesting places/Diamond Beach.md %})
+[Jökulsárlón Glacier Lagoon]({% link Interesting places/Jökulsárlón Glacier Lagoon.md %})
 
 ## Sleeping location 
 Guesthouse Dyngja

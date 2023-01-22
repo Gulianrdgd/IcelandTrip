@@ -1,6 +1,7 @@
 --- 
 layout: page
 title: Seljalandsfoss waterfall 
+categories: [Interesting places] 
 ---
 # Seljalandsfoss waterfall
 [https://guidetoiceland.is/travel-iceland/drive/seljalandsfoss](https://guidetoiceland.is/travel-iceland/drive/seljalandsfoss)
@@ -19,5 +20,4 @@ Due to the waterfall’s close proximity to the Ring Road and impressive natural
 [https://goo.gl/maps/hHRFPBAb1ijsRNRD8](https://goo.gl/maps/hHRFPBAb1ijsRNRD8)
 
 ## Price
-Free
 Free

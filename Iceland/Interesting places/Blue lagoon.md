@@ -1,6 +1,7 @@
 --- 
 layout: page
 title: Blue lagoon 
+categories: [Interesting places] 
 ---
 # Blue lagoon
 [https://www.bluelagoon.com/](https://www.bluelagoon.com/)
@@ -18,4 +19,4 @@ Norðurljósavegur 9 #Grindavík
 ## Price
 60,40 Euro p.p
 
-Total: 241,60 Euro Euro
+Total: 241,60 Euro

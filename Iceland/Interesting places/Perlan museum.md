@@ -1,6 +1,7 @@
 --- 
 layout: page
 title: Perlan museum 
+categories: [Interesting places] 
 ---
 # Perlan museum
 [https://www.tripadvisor.com/Attraction_Review-g189970-d246003-Reviews-Perlan-Reykjavik_Capital_Region.html](https://www.tripadvisor.com/Attraction_Review-g189970-d246003-Reviews-Perlan-Reykjavik_Capital_Region.html)
@@ -16,4 +17,4 @@ Perlan is a Nature Exploratorium and one of #Reykjavik’s main landmarks. You c
 ## Price
 25 Euro p.p.
 
-Totaal: 100 Euro Euro
+Totaal: 100 Euro

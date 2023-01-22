@@ -1,6 +1,7 @@
 --- 
 layout: page
 title: Day 1 
+categories: [Planning] 
 ---
 ## Monday 23-01-2023
 

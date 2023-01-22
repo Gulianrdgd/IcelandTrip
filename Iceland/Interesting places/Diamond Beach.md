@@ -1,6 +1,7 @@
 --- 
 layout: page
 title: Diamond Beach 
+categories: [Interesting places] 
 ---
 # Diamond Beach
 [https://guidetoiceland.is/travel-iceland/drive/diamond-beach](https://guidetoiceland.is/travel-iceland/drive/diamond-beach)
@@ -19,5 +20,4 @@ At the Diamond Beach, the icebergs which fill the Jökulsárlón glacier lagoon 
 [https://goo.gl/maps/sGKUTd13oMZqXVaAA](https://goo.gl/maps/sGKUTd13oMZqXVaAA)
 
 ## Price
-Free
 Free

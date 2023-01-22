@@ -1,6 +1,7 @@
 --- 
 layout: page
 title: Reykjadalur Steam Valley 
+categories: [Interesting places] 
 ---
 # Reykjadalur Steam Valley
 
@@ -21,5 +22,4 @@ The Valley is accessible all year round but in the winter time it sometimes snow
 [https://goo.gl/maps/QUj4NWirsPNxsi4k8](https://goo.gl/maps/QUj4NWirsPNxsi4k8)
 
 ## Price
-Free
 Free

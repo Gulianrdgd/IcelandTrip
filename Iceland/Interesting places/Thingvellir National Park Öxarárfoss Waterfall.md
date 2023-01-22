@@ -1,6 +1,7 @@
 --- 
 layout: page
 title: Thingvellir National Park Öxarárfoss Waterfall 
+categories: [Interesting places] 
 ---
 # Thingvellir National Park Öxarárfoss Waterfall
 [https://www.alltrails.com/trail/iceland/southern/oxararfoss-waterfall-trail](https://www.alltrails.com/trail/iceland/southern/oxararfoss-waterfall-trail)
@@ -16,5 +17,4 @@ title: Thingvellir National Park Öxarárfoss Waterfall
 [https://goo.gl/maps/4LW87DU9vuM9kd6P9](https://goo.gl/maps/4LW87DU9vuM9kd6P9)
 
 ## Price
-Free
 Free

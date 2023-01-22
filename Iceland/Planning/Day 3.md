@@ -1,6 +1,7 @@
 --- 
 layout: page
 title: Day 3 
+categories: [Planning] 
 ---
 ## Wednesday 25-01-2023
 
@@ -11,10 +12,10 @@ title: Day 3
 - 16:00 Check in
 
 ## Things to do
- - [[Reykjadalur Steam Valley]]
- - [[Seljalandsfoss waterfall]]
- - [[Skógafoss waterfall]]
- - [[Fagradalsfjall volcano]]
+[Reykjadalur Steam Valley]({% link Interesting places/Reykjadalur Steam Valley.md %})
+[Seljalandsfoss waterfall]({% link Interesting places/Seljalandsfoss waterfall.md %})
+[Skógafoss waterfall]({% link Interesting places/Skógafoss waterfall.md %})
+[Fagradalsfjall volcano]({% link Interesting places/Fagradalsfjall volcano.md %})
 
 ## Sleeping location 
 Mið-Hvoll cottages

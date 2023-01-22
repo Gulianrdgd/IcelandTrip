@@ -15,6 +15,7 @@ weather and volcanic gas
 emissions updates. These conditions, along with the volcano itself, are subject to change rapidly, and note that the area
 
 may be closed due to hazardous conditions! 
+[https://volcanoweather.is/](https://volcanoweather.is/)
 
 ## Location
 #Grindavik 

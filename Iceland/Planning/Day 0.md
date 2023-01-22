@@ -11,7 +11,6 @@ categories: [Planning]
  - [ ] Drinken voor in de auto en in de rij
 
 ### Kleding
-- [x] Thermo ondergoed
 - [x] Thermo sokken
 - [x] Bergschoenen
 - [x] Winterjas

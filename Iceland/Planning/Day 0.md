@@ -12,22 +12,22 @@ categories: [Planning]
 
 ### Kleding
 - [x] Thermo ondergoed
-- [ ] Thermo sokken
-- [ ] Bergschoenen
-- [ ] Winterjas
-- [ ] Skibroek
-- [ ] Handschoenen
-- [ ] Muts
-- [ ] Truien
-- [ ] Broeken
-- [ ] Sokken
-- [ ] Onderbroeken
-- [ ] Zwemkleding
-- [ ] Handoeken
-- [ ] Opladers
-- [ ] Powerbank
-- [ ] E reader
-- [ ] Laptop
-- [ ] Camera
-- [ ] T shirts
-- [ ] Kleding met laagjes
+- [x] Thermo sokken
+- [x] Bergschoenen
+- [x] Winterjas
+- [x] Skibroek
+- [x] Handschoenen
+- [x] Muts
+- [x] Truien
+- [x] Broeken
+- [x] Sokken
+- [x] Onderbroeken
+- [x] Zwemkleding
+- [x] Handoeken
+- [x] Opladers
+- [x] Powerbank
+- [x] E reader
+- [x] Laptop
+- [x] Camera
+- [x] T shirts
+- [x] Kleding met laagjes

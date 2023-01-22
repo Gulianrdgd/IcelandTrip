@@ -1,8 +1,3 @@
----
-layout: page
-title: Day 6
----
-
 ## Saturday 28-01-2023
 
 ## Program
@@ -14,14 +9,14 @@ title: Day 6
 
 ## Things to do
 
-* [Diamond Beach](../Interesting%20places/Diamond%20Beach.md)
-* [Jökulsárlón Glacier Lagoon](../Interesting%20places/J%C3%B6kuls%C3%A1rl%C3%B3n%20Glacier%20Lagoon.md)
-* [Fagradalsfjall volcano](../Interesting%20places/Fagradalsfjall%20volcano.md)
+* [Diamond Beach](../Interesting%20places/Diamond%20Beach.html)
+* [Jökulsárlón Glacier Lagoon](../Interesting%20places/J%C3%B6kuls%C3%A1rl%C3%B3n%20Glacier%20Lagoon.html)
+* [Fagradalsfjall volcano](../Interesting%20places/Fagradalsfjall%20volcano.html)
 
 ## Sleeping location
 
 Snowfarm Cottage 3
 Kirkjubæjarklaustur, Iceland
-https://www.airbnb.com/rooms/42215801
+[https://www.airbnb.com/rooms/42215801](https://www.airbnb.com/rooms/42215801)
 
 Check in at 16:00

@@ -1,13 +1,12 @@
----
+--- 
 layout: page
-title: Jökulsárlón Glacier Lagoon
+title: Jökulsárlón Glacier Lagoon 
 ---
-
 # Jökulsárlón Glacier Lagoon
 
-https://guidetoiceland.is/travel-iceland/drive/jokulsarlon
+[https://guidetoiceland.is/travel-iceland/drive/jokulsarlon](https://guidetoiceland.is/travel-iceland/drive/jokulsarlon)
 
-![Tour|300](https://guidetoiceland.imgix.net/358809/x/0/jokulsarlon-is-one-of-iceland-s-most-popular-and-unique-attractions?auto=format%2Ccompress&crop=faces%2Cedges%2Ccenter&bg=%23fff&fit=crop&q=35&h=926&dpr=1)
+[![300](https://guidetoiceland.imgix.net/358809/x/0/jokulsarlon-is-one-of-iceland-s-most-popular-and-unique-attractions?auto=format%2Ccompress&crop=faces%2Cedges%2Ccenter&bg=%23fff&fit=crop&q=35&h=926&dpr=1)](![300](https://guidetoiceland.imgix.net/358809/x/0/jokulsarlon-is-one-of-iceland-s-most-popular-and-unique-attractions?auto=format%2Ccompress&crop=faces%2Cedges%2Ccenter&bg=%23fff&fit=crop&q=35&h=926&dpr=1))
 
 ## Description
 
@@ -18,8 +17,9 @@ As a glacier lagoon, #Jökulsárlón is a lake that is filled with meltwater fro
 ## Location
 
 781, #Iceland
-https://goo.gl/maps/QkduXsQsR9Su9vp99
+[https://goo.gl/maps/QkduXsQsR9Su9vp99](https://goo.gl/maps/QkduXsQsR9Su9vp99)
 
 ## Price
 
+Free
 Free

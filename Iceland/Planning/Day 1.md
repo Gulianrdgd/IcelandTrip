@@ -1,8 +1,3 @@
----
-layout: page
-title: Day 1
----
-
 ## Monday 23-01-2023
 
 ## Program
@@ -23,6 +18,6 @@ title: Day 1
 Bright & cosy cottage by a lake.
 Mosfellsbær, Iceland
 
-https://www.airbnb.com/rooms/53522218
+[https://www.airbnb.com/rooms/53522218](https://www.airbnb.com/rooms/53522218)
 
 check in after 15:00

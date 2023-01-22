@@ -1,13 +1,8 @@
----
-layout: page
-title: Thingvellir National Park Öxarárfoss Waterfall
----
-
 # Thingvellir National Park Öxarárfoss Waterfall
 
-https://www.alltrails.com/trail/iceland/southern/oxararfoss-waterfall-trail
+[https://www.alltrails.com/trail/iceland/southern/oxararfoss-waterfall-trail](https://www.alltrails.com/trail/iceland/southern/oxararfoss-waterfall-trail)
 
-![Tour|300](https://guidetoiceland.imgix.net/331988/x/0/gullfoss?auto=format%2Ccompress&crop=faces%2Cedges%2Ccenter&bg=%23fff&fit=crop&q=35&h=926&dpr=1)
+[![300](https://guidetoiceland.imgix.net/331988/x/0/gullfoss?auto=format%2Ccompress&crop=faces%2Cedges%2Ccenter&bg=%23fff&fit=crop&q=35&h=926&dpr=1)](![300](https://guidetoiceland.imgix.net/331988/x/0/gullfoss?auto=format%2Ccompress&crop=faces%2Cedges%2Ccenter&bg=%23fff&fit=crop&q=35&h=926&dpr=1))
 
 ## Description
 
@@ -17,8 +12,9 @@ https://www.alltrails.com/trail/iceland/southern/oxararfoss-waterfall-trail
 
 \#Þingvellir National Park
 
-https://goo.gl/maps/4LW87DU9vuM9kd6P9
+[https://goo.gl/maps/4LW87DU9vuM9kd6P9](https://goo.gl/maps/4LW87DU9vuM9kd6P9)
 
 ## Price
 
+Free
 Free

@@ -1,13 +1,12 @@
----
+--- 
 layout: page
-title: Seljalandsfoss waterfall
+title: Seljalandsfoss waterfall 
 ---
-
 # Seljalandsfoss waterfall
 
-https://guidetoiceland.is/travel-iceland/drive/seljalandsfoss
+[https://guidetoiceland.is/travel-iceland/drive/seljalandsfoss](https://guidetoiceland.is/travel-iceland/drive/seljalandsfoss)
 
-![Tour|300](https://guidetoiceland.imgix.net/384686/x/0/seljalandsfoss-2?ixlib=php-3.3.0&w=883)
+[![300](https://guidetoiceland.imgix.net/384686/x/0/seljalandsfoss-2?ixlib=php-3.3.0&w=883)](![300](https://guidetoiceland.imgix.net/384686/x/0/seljalandsfoss-2?ixlib=php-3.3.0&w=883))
 
 ## Description
 
@@ -20,8 +19,9 @@ Due to the waterfall’s close proximity to the Ring Road and impressive natural
 ## Location
 
 \#Stóridalur 
-https://goo.gl/maps/hHRFPBAb1ijsRNRD8
+[https://goo.gl/maps/hHRFPBAb1ijsRNRD8](https://goo.gl/maps/hHRFPBAb1ijsRNRD8)
 
 ## Price
 
+Free
 Free

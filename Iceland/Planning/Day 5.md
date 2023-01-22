@@ -1,8 +1,3 @@
----
-layout: page
-title: Day 5
----
-
 ## Friday 27-01-2023
 
 ## Program
@@ -14,13 +9,13 @@ title: Day 5
 
 ## Things to do
 
-* [Diamond Beach](../Interesting%20places/Diamond%20Beach.md)
-* [Jökulsárlón Glacier Lagoon](../Interesting%20places/J%C3%B6kuls%C3%A1rl%C3%B3n%20Glacier%20Lagoon.md)
+* [Diamond Beach](../Interesting%20places/Diamond%20Beach.html)
+* [Jökulsárlón Glacier Lagoon](../Interesting%20places/J%C3%B6kuls%C3%A1rl%C3%B3n%20Glacier%20Lagoon.html)
 
 ## Sleeping location
 
 Guesthouse Dyngja
 Höfn, Iceland
-https://guesthousedyngja.is/
+[https://guesthousedyngja.is/](https://guesthousedyngja.is/)
 
 Check in at 16:00 until 21:00

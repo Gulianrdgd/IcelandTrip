@@ -1,8 +1,3 @@
----
-layout: page
-title: Day 7
----
-
 ## Sunday 28-01-2023
 
 ## Program
@@ -16,12 +11,12 @@ title: Day 7
 
 ## Things to do
 
-* [Perlan museum](../Interesting%20places/Perlan%20museum.md)
-* [Blue lagoon](../Interesting%20places/Blue%20lagoon.md)
+* [Perlan museum](../Interesting%20places/Perlan%20museum.html)
+* [Blue lagoon](../Interesting%20places/Blue%20lagoon.html)
 
 ## Sleeping location
 
 Norðurey Hotel City Garden
 Reykjavík, Iceland
 
-https://www.booking.com/hotel/is/nordurey.en-gb.html
+[https://www.booking.com/hotel/is/nordurey.en-gb.html](https://www.booking.com/hotel/is/nordurey.en-gb.html)

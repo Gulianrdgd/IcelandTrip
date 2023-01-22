@@ -1,8 +1,3 @@
----
-layout: page
-title: Day 0
----
-
 ## preperations
 
 ### Eten

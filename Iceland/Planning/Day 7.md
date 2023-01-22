@@ -20,7 +20,7 @@ categories: [Planning]
 
 
 ## Sleeping location 
-Norðurey Hotel City Garden
+Reykjavik Marina - Berjaya Iceland Hotels
 Reykjavík, Iceland
 
-[https://www.booking.com/hotel/is/nordurey.en-gb.html](https://www.booking.com/hotel/is/nordurey.en-gb.html)
+[https://www.booking.com/hotel/is/icelandair-reykjavik-marina.en-gb.html](https://www.booking.com/hotel/is/icelandair-reykjavik-marina.en-gb.html)

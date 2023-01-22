@@ -17,9 +17,9 @@ categories: [Planning]
  - 
 
 ## Sleeping location 
-Bright & cosy cottage by a lake.
-Mosfellsbær, Iceland
+Lovely Cabin Close to the Blue Lagoon
+Hafnarfjördur, Iceland
 
-[https://www.airbnb.com/rooms/53522218](https://www.airbnb.com/rooms/53522218)
+[https://www.booking.com/hotel/is/lovely-cabin-close-to-the-blue-lagoon.en-gb.html](https://www.booking.com/hotel/is/lovely-cabin-close-to-the-blue-lagoon.en-gb.html)
 
 check in after 15:00

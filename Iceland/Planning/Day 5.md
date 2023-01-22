@@ -18,8 +18,8 @@ categories: [Planning]
 
 
 ## Sleeping location 
-Guesthouse Dyngja
+Apotek Guesthouse
 Höfn, Iceland
-[https://guesthousedyngja.is/](https://guesthousedyngja.is/)
+[https://www.booking.com/hotel/is/apotek-guesthouse.nl.html](https://www.booking.com/hotel/is/apotek-guesthouse.nl.html)
 
-Check in at 16:00 until 21:00
+Check in at 16:00

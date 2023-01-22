@@ -7,7 +7,7 @@ categories: [Planning]
 
 ## Program
 - 8:00 Breakfast
-- 11:00 Check out
+- 12:00 Check out
 - 14:00 Check in
 - 15:30 Sunset
 

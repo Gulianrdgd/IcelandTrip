@@ -14,9 +14,9 @@ categories: [Planning]
 - 00:05 Landing 🇳‍🇱
 
 ## Things to do
-- [Perlan museum]( Interesting places/Perlan museum.md ) 
+- [Perlan museum]( ../Interesting places/Perlan museum ) 
 
-- [Blue lagoon]( Interesting places/Blue lagoon.md ) 
+- [Blue lagoon]( ../Interesting places/Blue lagoon ) 
 
 
 ## Sleeping location 

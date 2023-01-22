@@ -12,10 +12,10 @@ categories: [Planning]
 - 16:00 Check in
 
 ## Things to do
-[Reykjadalur Steam Valley]({% link Interesting places/Reykjadalur Steam Valley.md %})
-[Seljalandsfoss waterfall]({% link Interesting places/Seljalandsfoss waterfall.md %})
-[Skógafoss waterfall]({% link Interesting places/Skógafoss waterfall.md %})
-[Fagradalsfjall volcano]({% link Interesting places/Fagradalsfjall volcano.md %})
+[Reykjadalur Steam Valley]( Reykjadalur Steam Valley.md )
+[Seljalandsfoss waterfall]( Seljalandsfoss waterfall.md )
+[Skógafoss waterfall]( Skógafoss waterfall.md )
+[Fagradalsfjall volcano]( Fagradalsfjall volcano.md )
 
 ## Sleeping location 
 Mið-Hvoll cottages

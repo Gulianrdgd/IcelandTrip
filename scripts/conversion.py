@@ -2,55 +2,39 @@ import os
 import sys
 
 
-def add_file_header(root, file):
+def convert_files(root, file):
     print("Adding file header to: " + file)
-
+    print(root)
     header = "--- \n" \
              "layout: page\n" \
              "title: {file} \n" \
-             "---\n".format(file=file[:-3])
+             "categories: [{category}] \n" \
+             "---\n".format(file=file[:-3], category=root.split("/")[-1])
 
     print(header)
 
     with open(os.path.join(root, file), "r+") as f:
         content = f.read()
-        f.seek(0, 0)
-        f.write(header + content)
 
-
-def convert_images_to_github_markdown(root, file):
-    print("Converting images to github markdown: " + file)
-
-    with open(os.path.join(root, file), "r+") as f:
-        content = f.read()
+        # Fix images
         content = content.replace("Tour|", "")
-        f.seek(0, 0)
-        f.write(content)
 
-
-def convert_links_to_hyperlinks(root, file):
-    print("Converting links to hyperlinks: " + file)
-
-    with open(os.path.join(root, file), "r+") as f:
-        content = f.read()
+        # Fix links to other websites
         content_lines = content.splitlines()
         for line in content_lines:
             if "https://" in line[0:9] and not ".jpg" in line and not ".png" in line and not ".jpeg" in line:
                 print(line)
                 content = content.replace(line, "[" + line + "](" + line + ")")
-
+            else:
+                start = line.find("[[")
+                end = line.find("]]")
+                if start != -1 and end != -1:
+                    link = line[start + 2:end]
+                    content = content.replace(line, "[" + link + "]({% link Interesting places/" + link + ".md %})")
         f.seek(0, 0)
-        f.write(content)
 
-
-def convert_md_to_html(root, file):
-    print("Converting markdown to html: " + file)
-
-    with open(os.path.join(root, file), "r+") as f:
-        content = f.read()
-        content = content.replace(".md", ".html")
-        f.seek(0, 0)
-        f.write(content)
+        # Append header
+        f.write(header + content)
 
 
 def navigate_folder_structure(path):
@@ -61,10 +45,7 @@ def navigate_folder_structure(path):
         for root, dirs, files in os.walk(path):
             for file in files:
                 if file.endswith(".md"):
-                    add_file_header(root, file)
-                    convert_images_to_github_markdown(root, file)
-                    convert_links_to_hyperlinks(root, file)
-                    convert_md_to_html(root, file)
+                    convert_files(root, file)
         done = True
     print(structure)
     return structure

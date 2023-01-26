@@ -14,10 +14,9 @@ categories: [Planning]
 ## Things to do
 - [Black sand beach vik]( ../Interesting places/Black sand beach vik ) 
 
-- [Diamond Beach]( ../Interesting places/Diamond Beach ) 
-
 - [Jökulsárlón Glacier Lagoon]( ../Interesting places/Jökulsárlón Glacier Lagoon ) 
 
+ - Broken down Airplane
 
 
 ## Sleeping location 

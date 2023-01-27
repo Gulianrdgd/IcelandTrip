@@ -12,7 +12,7 @@ categories: [Planning]
 - 15:30 Sunset
 
 ## Things to do
-- [Black sand beach vik]( ../Interesting places/Black sand beach vik ) 
+- [Reynisfjara Beach]( ../Interesting places/Reynisfjara Beach ) 
 
 - [Jökulsárlón Glacier Lagoon]( ../Interesting places/Jökulsárlón Glacier Lagoon ) 
 

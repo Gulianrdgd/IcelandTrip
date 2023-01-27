@@ -16,6 +16,8 @@ categories: [Planning]
 
 - [Jökulsárlón Glacier Lagoon]( ../Interesting places/Jökulsárlón Glacier Lagoon ) 
 
+- [Svartifoss waterfall]( ../Interesting places/Svartifoss waterfall ) 
+
 
 ## Sleeping location 
 Apotek Guesthouse

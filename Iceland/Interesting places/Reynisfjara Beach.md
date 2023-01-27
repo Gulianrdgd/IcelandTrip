@@ -1,10 +1,10 @@
 --- 
 layout: page
-title: Black sand beach vik 
+title: Reynisfjara Beach 
 categories: [Interesting places] 
 ---
-# Black sand beach vik
-[https://www.tripadvisor.com/Attraction_Review-g189970-d246003-Reviews-Perlan-Reykjavik_Capital_Region.html](https://www.tripadvisor.com/Attraction_Review-g189970-d246003-Reviews-Perlan-Reykjavik_Capital_Region.html)
+# Reynisfjara Beach
+[https://guidetoiceland.is/travel-iceland/drive/reynisfjara](https://guidetoiceland.is/travel-iceland/drive/reynisfjara)
 
 ![300](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/ec/b3/bf/photo1jpg.jpg?w=1200&h=-1&s=1)
 
@@ -13,6 +13,7 @@ This is an amazing and spectacular beach. The cliffs and sea caves with their va
 
 ## location
 #Vik
+[https://goo.gl/maps/xFrehgpo2r4pDbcR7](https://goo.gl/maps/xFrehgpo2r4pDbcR7)
 
 ## Price
 Free

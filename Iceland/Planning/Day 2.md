@@ -19,6 +19,14 @@ categories: [Planning]
 - [Víðgelmir lava cave]( ../Interesting places/Víðgelmir lava cave ) 
 
 
+## Things we visited
+- [Geysir]( ../Interesting places/Geysir ) 
+
+Great sight, very touristic
+
+- [Gullfoss Waterfall]( ../Interesting places/Gullfoss Waterfall ) 
+
+
 ## Sleeping location 
 Lovely Cabin Close to the Blue Lagoon
 Hafnarfjördur, Iceland

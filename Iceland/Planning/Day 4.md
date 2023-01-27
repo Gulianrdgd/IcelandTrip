@@ -16,7 +16,8 @@ categories: [Planning]
 
 - [Jökulsárlón Glacier Lagoon]( ../Interesting places/Jökulsárlón Glacier Lagoon ) 
 
- - Broken down Airplane
+- [Solheimasandur Plane Wreck]( ../Interesting places/Solheimasandur Plane Wreck ) 
+
 
 
 ## Sleeping location 
